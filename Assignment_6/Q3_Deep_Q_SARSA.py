@@ -34,8 +34,6 @@ class QLearningAgent:
         return playground_matrix
 
     def plot_playground(self):
-
-
         #This will get plot the grid with 4 distinct colors
         # 0 - Black
         # -1 - Blue
